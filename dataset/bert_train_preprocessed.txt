@@ -1643,7 +1643,10 @@ index	label	text
 1642	1	father sent me down to buy ingredients cos he wanna fry some noodles up i remembered everything else but the noodles #somuchwin
 1643	0	I still love the newsroom regardless of what everyone else thinks
 1644	0	This is not the moon . Pictures like the moon is made of light bulbs . #the #moon :) HTTPURL
-1645	0	"@USER : Thanks to @USER . I think I backed into the playoffs ! Playoff matchup : TacoCorp v Gronkey Punch 1646 0 oh yeah , its official #im #crazy HTTPURL 1647 1 Oh well , looks like we are back to square 1 . Batie and Bridge . This is going to go so well #BoldandBeautiful 1648 1 @USER : @USER how the fuck are you up now ? Ho ! Saturnalia nigga """
+1645	0	"@USER : Thanks to @USER . I think I backed into the playoffs ! Playoff matchup : TacoCorp v Gronkey Punch 
+1646	0	oh yeah , its official #im #crazy HTTPURL 
+1647	1	Oh well , looks like we are back to square 1 . Batie and Bridge . This is going to go so well #BoldandBeautiful 
+1648	1	@USER : @USER how the fuck are you up now ? Ho ! Saturnalia nigga """
 1649	1	@USER : Adding #traditional makes the statement #legit #justbecause
 1650	1	@USER To the officer 's defense ... that was a very scary looking phone . #BlackLivesMatter
 1651	0	@USER when dad calls me by this name :smirking_face: we often go into a fight .. You want a fight ? :smirking_face:
@@ -3023,7 +3026,18 @@ index	label	text
 3025	1	@USER I should sue my parents
 3026	1	Great start to the morning #flattire
 3027	1	Final projects ugh | Keeping me from being productive . | #butnotreally
-3028	0	"@USER : @USER Aaaaaamd what time is your bedtime ? > better tweet Dad at night from my house . I do n't want to get in trouble ! 3029 1 Ca n't wait till my birthday 3030 0 Clovis Cartoon , Tuesday , December 09 , 2014 HTTPURL #jamaicaobserverandroidapp via @USER . a real McCoy 3031 1 Just now layin down to go to bed . | College is great guys . It does n't stress you out or keep you up at night at all . Or make you cry . 3032 0 Pretty sure I just sat behind @USER in the McDonald 's drive through and peeked to see movie what was playing :face_with_tears_of_joy: 3033 0 @USER #ChrisChristy will do well among republican voters . #JebBush , I think he could do well , democrats do n't like him . 3034 1 nights like tonight are the only reason I 'm able to carry on to the weekend #SUCHAGOODWEEK 3035 1 wow I love how frizzy my hair gets 3036 0 @USER #GoodMorning ! @USER @USER @USER @USER 3037 0 Hate them roulettes me there heavy 3038 1 @USER Joke of the year congrats ! #Kuivaa :/ 3039 1 @USER have n't you used the do n't you know who I am "" line yet ..."
+3028	0	"@USER : @USER Aaaaaamd what time is your bedtime ? > better tweet Dad at night from my house . I do n't want to get in trouble ! 
+3029	1	Ca n't wait till my birthday 
+3030	0	Clovis Cartoon , Tuesday , December 09 , 2014 HTTPURL #jamaicaobserverandroidapp via @USER . a real McCoy 
+3031	1	Just now layin down to go to bed . | College is great guys . It does n't stress you out or keep you up at night at all . Or make you cry . 
+3032	0	Pretty sure I just sat behind @USER in the McDonald 's drive through and peeked to see movie what was playing :face_with_tears_of_joy: 
+3033	0	@USER #ChrisChristy will do well among republican voters . #JebBush , I think he could do well , democrats do n't like him . 
+3034	1	nights like tonight are the only reason I 'm able to carry on to the weekend #SUCHAGOODWEEK 
+3035	1	wow I love how frizzy my hair gets 
+3036	0	@USER #GoodMorning ! @USER @USER @USER @USER 
+3037	0	Hate them roulettes me there heavy 
+3038	1	@USER Joke of the year congrats ! #Kuivaa :/ 
+3039	1	@USER have n't you used the do n't you know who I am "" line yet ..."
 3040	1	girls put so much effort in dressing nice for school .. I 'm over here in my oversized sweats and vans #maybetomorrow
 3041	1	@USER Christmas as an adult with broken family . Just awesome . Nothing like your stepsister with 9 kids ..
 3042	0	It was so incredible to hear Justice Ginsburg speak today . She truly is an inspiration .
@@ -3442,7 +3456,10 @@ index	label	text
 3455	0	Jim 's cookies won , Nikki 's killed , but everyone needs to go to @USER to enjoy @USER ' s amazing pastries ! HTTPURL
 3456	1	My vision looks like this = just let me enjoy my first winter outside through a peep hole #growingwinter HTTPURL
 3457	0	@USER not surprised , it was epic .
-3458	0	"I do #speak #because I #want to #save #someone . I speak because I like . Who am I #to save ... HTTPURL 3459 0 @USER vodka lime and lemonade is the one :OK_hand: :OK_hand: :OK_hand: 3460 1 Sneezing when you have to pee #jusygirlythings 3461 1 @USER @USER I encourage you ... to educated yourself """
+3458	0	"I do #speak #because I #want to #save #someone . I speak because I like . Who am I #to save ... HTTPURL
+3459	0	@USER vodka lime and lemonade is the one :OK_hand: :OK_hand: :OK_hand: 
+3460	1	Sneezing when you have to pee #jusygirlythings 
+3461	1	@USER @USER I encourage you ... to educated yourself """
 3462	1	D - 1 test first day :victory_hand: :victory_hand: #read #book #งวย 5555 #doing #home #work = _ =
 3463	0	#Celtics RT @USER : Jameer Nelson will start in his return to Orlando tonight . Marcus Smart will come off the bench .
 3464	0	HTTPURL #TeenAnalCasting #What What is the Creampie Crusade ?
