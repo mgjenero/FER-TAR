@@ -30,8 +30,8 @@ def has_emoji(text):
     return False
 
 
-c1, y1 = parse_dataset("dataset\\SemEval2018-T3-train-taskA_emoji.txt")
-c2, y2 = parse_dataset("dataset\\SemEval2018-T3_gold_test_taskA_emoji.txt")
+c1, y1 = parse_dataset("dataset\\train_task_a_full.txt")
+c2, y2 = parse_dataset("dataset\\test_task_a_full.txt")
 
 c_final = []
 c_final.extend(c1)

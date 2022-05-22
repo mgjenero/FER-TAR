@@ -1,0 +1,89 @@
+index	label	text	emojis	emoji_count	emoji_sentiment_scores
+9	0	if Christian expects Fifa to sleep in my bed with me tonight, he's wrong 👿	👿	1	-0.557
+38	0	season 6 episode 3 carries outfit, simple & chic 👌 http://t.co/QuliJvFNdK	👌	1	0.564
+45	1	You decide to go on vacation without me sleep? Reaaaal nice. #considerate #not 😒💤	😒💤	2	0.0
+57	0	Haley approves of her new hammock 🐭 #ratsofinstagram http://t.co/yvggcaPChg	🐭	1	0.733
+65	1	I just love being ignored😊|#not😒	😊😒	2	0.135
+70	0	Merry Christmas to all those soldiers out there that couldn't make it home! I love you all ❤	❤	1	0.746
+74	0	Woke Up , showered , made a lunch and got ready for work only to realize that I have the whole weekend off. 😅	😅	1	0.18
+97	0	MB forgot to move the elf on shelf and now 10 is asking me if Christmas is real. 😥@NannyProbss	😥	1	0.123
+98	0	@CrizzArce happy new year, da! Thanks sobra for this year 👍👍	👍👍	2	0.522
+106	1	There's no better way to start the week than to get your wisdom teeth taken out at 8 am!!! #not ☺😊😳	☺😊😳	3	0.4403333333333333
+135	0	@rioferdy5 my mum to be back with us for Xmas 🎄	🎄	1	0.538
+160	0	My beautiful Belles #3daughters#lucky #me #havefun @ Wicklow 🌁 http://t.co/efbHmmLgEw	🌁	1	0.214
+163	0	This is definitely me! 😁|#me #sarcastic #sarcasm #ecards #ecard #somecard #tease #funny #lol... http://t.co/Q1joezvW9u	😁	1	0.45
+164	1	Christmas alone😊 how nice #not	😊	1	0.645
+165	1	work Wednesday-Sunday .. #yay #not #moneytho 😩😭💰😒	😩😭💰😒	4	-0.145
+169	1	@manicsue: You want to see something Irish!!Of all the reasons to be closed 😂😂😂 http://t.co/ePyGvA9pwU #irony	😂😂😂	3	0.221
+171	0	Oh dear, some people don't get #irony 😳	😳	1	0.018
+178	1	I am so ready for Monday. 🙆 #sarcasm	🙆	1	0.509
+180	0	@davemrlean I do love a chilled night in. Saves having a hangover to😂 thank you hun X	😂	1	0.221
+190	0	The fact that this time next week I'll be getting my wisdom teeth out 😖🙊 #chipmunk	😖🙊	2	0.15200000000000002
+199	1	@GaryLineker trust me it will be out of form Scandinavian reef again to. @ChampionsLeague do love @MCFC I see😒🙈 #irony #FCBarcelona #mcfc	😒🙈	2	0.028999999999999998
+202	0	Day ninth December to have a pint at the boars head|#not really still in bed 😊 http://t.co/H4XoH4jpwc	😊	1	0.645
+203	0	Speed cameras in Whipton by village shops. & yes it Takes 5 police officers!! 🚔 #waste #of #money #does #not #take #five #individuals 😂🚨🚓	🚔😂🚨🚓	4	0.31725000000000003
+204	1	Picked an excellent day to get my hair done 😒 #sarcasm	😒	1	-0.375
+209	0	Can always count on you to speak to me on here then delete the messages so It looks like I'm talking to myself. 😒 @TristanReece_	😒	1	-0.375
+213	0	After getting a total of 4 hours of sleep in 2 days, I FINALLY got good sleep last night😁	😁	1	0.45
+219	1	Someone needs to stop me before I kill someone 😡 love waking up in the worst fcking mood #Not	😡	1	-0.173
+225	0	❓❓GOT MENTIONS ❓❓||#MGWV #AutoFollow #RETWEET #RTMUZZA #TEAMFOLLOWBACK #TFBJP #500aday #RT2GAIN ||⏩ @TwitWhizz ⏪| |WHOS WANTS TO BE NEXT?	❓❓❓❓⏩⏪	6	0.15983333333333333
+226	0	Remember to raise a glass of merry to those who are at work keeping the world safe on Christmas 🌎🎄🌏🎅🌍❄|🚑🚒🚓🚁🚢 #essentialservice	🌎🎄🌏🎅🌍❄🚑🚒🚓🚁🚢	11	0.3019090909090909
+234	1	What a golden morning. 😒 #not	😒	1	-0.375
+243	0	Take a look at those calves!!! 😎😎😂😂 ladies love the calves! #not #about #the #arms #its #about... http://t.co/R7OWkjcBmq	😎😎😂😂	4	0.35700000000000004
+250	0	Watching @beckie0 trich vlogs helps me alot with my trich condition !! ☺️💕	☺💕	2	0.6455
+257	0	@MyzzCryz not worried about it. Whenevs 😉	😉	1	0.464
+260	1	@NPCole23 hahaha yeah I think so too cause you know how she loves her with all her heart 😂😂😂.... #NOT 🔫.	😂😂😂🔫	4	0.117
+274	1	Reunited with my pump this morning. #yay #not 😣	😣	1	-0.214
+281	0	@LoseThosePoundz: 🙌🙌 http://t.co/ptl2nSnFFO #fitfam #fitness #health	🙌🙌	2	0.56
+283	1	What a great way to start the day!! #Not 😠	😠	1	-0.302
+303	0	The best love is the kind that awakens the soul, and makes us reach for more...💖	💖	1	0.713
+306	0	I have officially surrounded myself with the most amazing people 😊	😊	1	0.645
+346	0	#bedroom #decoration done lol #upstairs just needs a hoover... #Christmas 🎅 #decorations #downstairs #now xxx http://t.co/9qI6RIARJN	🎅	1	0.321
+350	0	"So I may have had a ""few"" empties to recycle... ♻♻ |I ❤ #craftbeer http://t.co/qlZbtAcmOx"	♻♻❤	3	0.6233333333333334
+360	0	http://t.co/OXybfwwWb6|PAID4posting- #Photography #Photoshop #Photos #Art #EyeCandy #Bible on #TSU 💁🎄🎅 ||#FOLLOW http://t.co/PzXG42petX	💁🎄🎅	3	0.39566666666666667
+366	0	@kaylakrebs5 not you, you're on pain medications 😂	😂	1	0.221
+367	1	What a great Christmas. 😅 #not	😅	1	0.18
+368	0	i hate waking up in the mornings 😒#basicbrianna #not #an #early #bird	😒	1	-0.375
+384	1	@Metri_HennyKing u bragged all yr about having Peyton in 2 leagues only to get beat in the 1st round in both #irony 😂😂😂😂	😂😂😂😂	4	0.221
+387	0	@francescapinder @girlposts this vine won't come up 😫😫😫	😫😫😫	3	-0.146
+395	1	Perfect time to get sick 😢 #not	😢	1	0.007
+396	0	I'm giving up a lot of stuff to make sure others are happy . I wonder if anyone ever look past my appearance and see what I'm feeling 😩	😩	1	-0.368
+408	1	Yay jury duty 😒 #sarcasm	😒	1	-0.375
+412	1	Literally functioning on 4 hours of sleep and I feel great 😄 !! #Not #CollegeisKillingMe #OneMoreWeek	😄	1	0.422
+413	0	When ya mates dad starts poking you on Facebook #Cringe 😲😬	😲😬	2	0.063
+447	0	"#SMILES when there is #MONEY|#SCOWLS when there is #NOT|#RECOGNITION when there is #MONEY|#IGNORANCE when there is #NOT|⛪🏦💵 🏥💰🚓👊💥|""'💔#GOD$💔"""	⛪🏦💵🏥💰🚓👊💥💔💔	10	0.26749999999999996
+456	0	Hyper at 1AM when I really should be getting rest #ohwhale 🐋🐳	🐋🐳	2	0.2
+470	0	@emm_pearce @Napwell 3 more nights 3 more nights 😬😬😬 #londoncalling http://t.co/oZt0e541P9	😬😬😬	3	0.19600000000000004
+482	1	Oh I just love when I wake up with a migraine 😒 #not #needmeds	😒	1	-0.375
+491	0	@bigedh456 thanks babe, hope you have a good one too 💕🎊🎊	💕🎊🎊	3	0.6956666666666665
+500	0	@Naaaauds Now I have a game Monday, Tuesday, friday and Saturday 😭😭	😭😭	2	-0.093
+517	1	Best Christmas Eve news: I have a half sister. 😂👍 #sarcasm #thanksdad	😂👍	2	0.3715
+518	0	Brother💙 we don't look alike #not #frère #family #lovehim http://t.co/nCAt8xXqxQ	💙	1	0.732
+522	1	Throwing up is exactly what I want to be doing at 7:30am... 😷😷😷 #not	😷😷😷	3	-0.171
+538	1	Nice weather for today.. #not 😠	😠	1	-0.302
+556	1	Scoped out a new route on today's 5k. But oh.. the crowds, the traffic, the noise 😄 #not... http://t.co/yYGdZiRwfZ	😄	1	0.422
+565	1	Today is going to be a great day . #not. 😔	😔	1	-0.146
+574	0	@neverczarina trying hard to be fragile and petite. Hahaha. Happy new year liabeeeeee more clingy moments 😂😂😂	😂😂😂	3	0.221
+580	0	@TonyBrown03 @bigedh456 @ParkzTheDon hmmmm. I wouldn't say she has tits 😁	😁	1	0.45
+589	1	@TSTG11 @Shweta_97 @AparnaRam_ same here. Tryin to link d convos bt another tweet cums up. #Sarcasm is the only wrd repeated.😂😂😂😂😂	😂😂😂😂😂	5	0.221
+595	0	Sometimes it's #not about being #Cocky.. 😏😼 It's abt knowing what ur #Capable of & #doing it...... http://t.co/jmWKGojRNp	😏😼	2	0.36250000000000004
+597	0	I can't even begin to explain my frustration. 😒	😒	1	-0.375
+599	1	Fighting over chargers is definitely how I wanted to start my day.😒 #not	😒	1	-0.375
+619	0	Love it when my mans on a cleaning spree.. Saves me doing it 👌😘😘😘	👌😘😘😘	4	0.6675
+627	1	Laptop speakers are too quiet for music & simply too loud for porn 😒 !#Irony	😒	1	-0.375
+645	1	I love it when people try to tell me that Oakland is so much easier than other schools 😡 #not	😡	1	-0.173
+668	0	Last night watch for 2014!! That deserves 💣'r breakfast dram. @Bowmore 17yr from @ADRattrayWhisky #scotch #Islay http://t.co/69ROwqkilU	💣	1	0.008
+677	0	So glad I'm off work tonite🙋	🙋	1	0.492
+678	0	Lol my mom can't text and talk at the same time 😆	😆	1	0.412
+681	0	Why is there evidence of a stripper in my house yet I see no stripper in my house 😑💔 http://t.co/2KjUs8rotA	😑💔	2	-0.218
+687	0	@mgutowski63 just check out the buttons, see what they do. And follow me back 😜	😜	1	0.456
+694	0	@mhairiduncan8 just trying to confuse you all 😘	😘	1	0.702
+710	0	Who said that birthday girl can't celebrate the next day??? ☺️☺️ #celebrating #always #nighout #birthdaygirl... http://t.co/P5Ex0ONecU	☺☺	2	0.658
+730	1	Horray to working all weekend! #sarcasm #ohwell 💰💰👍😏	💰💰👍😏	4	0.3415
+742	1	The thirstiest of thirst buckets calling other people thirsty 😒 #irony	😒	1	-0.375
+759	0	@Nialljenk8 Cheers bro! Top man 🙋	🙋	1	0.492
+760	0	Even getting cooked breakfast.. Hes defo up to something 😕😮😆😆	😕😮😆😆	4	0.1755
+765	0	@GazGShore please make me smile this Xmas.. First Xmas without my mum here. Your my fav everrr. Pleaseeee🎄🎁🎁	🎄🎁🎁	3	0.6906666666666667
+770	1	Hearing gun shots when I first wake up makes me feel like I'm in Compton. What a wonderful way to wake up. ❤ #sarcasm #imscared	❤	1	0.746
+777	1	What a lovely day to drive #not #boo #fog #work 😳😳😳 http://t.co/tjJkA1yhq6	😳😳😳	3	0.018
+784	0	#NOT ALL 👌 There good & bad in every occupation & race 📚📖 #Stop Labeling #Not All 💡 http://t.co/CMoOOnNGQi	👌📚📖💡	4	0.45875
