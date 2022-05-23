@@ -1,0 +1,2 @@
+bertweet_only_with_emojis           https://drive.google.com/file/d/1f7G7P2lvFw-OrWYs22wNKchqeFslFUR8/view?usp=sharing
+bertweet_only_with_emojis_removed   https://drive.google.com/file/d/132GIQoa2Sd43K7iEF9k6IuvkswivG0LN/view?usp=sharing
