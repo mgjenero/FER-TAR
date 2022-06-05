@@ -1,2 +1,2 @@
 # FER-TAR
-Repository for TAR project 
+Repository for the TAR project.
